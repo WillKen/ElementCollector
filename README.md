@@ -1,3 +1,6 @@
+项目传送门：https://github.com/WillKen/ElementCollector
+
+视频演示：[ElementCollector｜游戏Demo演示-哔哩哔哩](https://b23.tv/goP5bSU)
 # 开发环境
 
 操作系统：macOS Monterey 12.5 （MacBook pro M1）
